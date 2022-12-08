@@ -16,7 +16,7 @@ Run file ``pnp_zed_M_left_merged_corners.m`` with MATLAB of version over ``R2020
 ![alt tag](tencent.jpg)
 
 # Reference
-Wu, J., Wang, C., Wang, X., Li, C., Jiang, Y., Zhang, C., Huang, Y., Huang, H., Liu, M. (2021) On Similarity Transformation Problems.
+Wu, J., Wang, C., Liu, M., et al. (2022) On Similarity Transformation Problems. Submitted to TMECH.
 
 # Contact
 Corresponding author: Prof. Chaoqun Wang, Shandong University, China, e-mail: zychaoqun@gmail.com
