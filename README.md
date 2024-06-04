@@ -20,4 +20,5 @@ Wu, J., Wang, C., et al. (2024) On Similarity Transformation Problems: Globally 
 
 # Contact
 Corresponding author: Prof. Chaoqun Wang, Shandong University, China, e-mail: zychaoqun@gmail.com
+
 Code contributor: Jin Wu, HKUST, e-mail: jin_wu_uestc@hotmail.com
