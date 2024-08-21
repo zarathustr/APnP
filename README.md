@@ -23,3 +23,5 @@ Corresponding author: Prof. Chaoqun Wang, Shandong University, China, e-mail: zy
 
 Code contributor: Jin Wu, HKUST, e-mail: jin_wu_uestc@hotmail.com
 
+The experiments were carried out in Tencent Robotics X Laboratory during 2019 to 2020, Shenzhen, China.
+
