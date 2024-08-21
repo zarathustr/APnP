@@ -20,7 +20,7 @@ Run file ``pnp_zed_M_left_merged_corners.m`` with MATLAB of version over ``R2020
 ![alt tag](epnp.jpg)
 
 # Reference
-Wu, J., Wang, C., et al. (2024) On Similarity Transformation Problems: Globally Optimal Results and Applications. ***IEEE Transactions on Instrumentation and Measurement***.
+Wu, J., Wang, C., et al. (2024) On Similarity Transformation Problems: Globally Optimal Results and Applications. ***IEEE Transactions on Instrumentation and Measurement***. https://doi.org/10.1109/TIM.2024.3438850
 
 # Contact
 Corresponding author: Prof. Chaoqun Wang, Shandong University, China, e-mail: zychaoqun@gmail.com
