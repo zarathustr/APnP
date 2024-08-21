@@ -15,6 +15,10 @@ Run file ``pnp_zed_M_left_merged_corners.m`` with MATLAB of version over ``R2020
 
 ![alt tag](tencent.jpg)
 
+![alt tag](p3p.jpg)
+
+![alt tag](epnp.jpg)
+
 # Reference
 Wu, J., Wang, C., et al. (2024) On Similarity Transformation Problems: Globally Optimal Results and Applications. ***IEEE Transactions on Instrumentation and Measurement***.
 
